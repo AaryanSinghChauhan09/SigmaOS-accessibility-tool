@@ -3,7 +3,7 @@ name = "SigmaOS-accessibility-tool"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "accessibility-tool component"
+description = "Accessibility tools: screen reader, magnifier, on-screen keyboard, Orca integration"
 upstream = []
 
 [contract]
